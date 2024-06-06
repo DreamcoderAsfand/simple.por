@@ -1,2 +1,2 @@
-# simple.por
+# simple.port
 sipmle portfolio webpage
